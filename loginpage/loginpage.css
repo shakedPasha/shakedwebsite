@@ -1,0 +1,19 @@
+body{ font-family: 'Bebas Neue', cursive;
+    font-size:15px;
+    background: 
+      url("https://i.pinimg.com/736x/20/88/73/20887306766b4c2907d7953d6ca298b8.jpg");
+     
+      text-align: center;
+  }
+  
+     
+  
+  #loginButton {color: #b300b3	;
+    background:#ff4dff;
+    border-color:  #b300b3;
+    border-width: 10px;
+    border-style: double;
+    padding:5px;
+    font-family: 'Rubik Puddles', cursive;
+    box-shadow: 5px 5px 2px #ff4dff;
+    border-radius: 60px;}

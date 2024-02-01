@@ -1,0 +1,29 @@
+
+
+body{
+  background: url("https://i.pinimg.com/564x/cc/f7/0e/ccf70e252aaf24f938ad86fbdb799384.jpg");
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  font-size:15px;
+}
+
+.write{
+  background-color: rgb(255, 112, 207);
+  border-style: none;
+  color: aliceblue;
+  font-size: 17px;
+}
+.write:hover{
+   background-color: rgb(247, 129, 233);
+   font-size: 18px;
+}
+
+.vid1{
+  border-color: rgb(250, 215, 241);
+  border-style: double;
+  align-items: start;
+}
+
+#les{
+  text-align: start;
+}

@@ -1,0 +1,19 @@
+body{
+    background:url('https://i.pinimg.com/564x/74/14/7a/74147aa686856fd73eabb63c15d4011a.jpg') ;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+.hw{
+    background-color: #ffe6ff;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    border-style: none ;
+    font-size: 20px;
+}
+
+.hw:hover{
+    background-color: #fcb4fc;
+    font-size: 21px;
+
+}
+
